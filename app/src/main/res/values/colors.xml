@@ -3,7 +3,13 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+<<<<<<< HEAD
     <color name="colorbackground">#fff</color>
     <color name="colortexthint">#E6E6FA</color>
     <color name="black">#020202</color>
+=======
+    <color name="putih">#FFFFFF</color>
+    <color name="bg_orange">#FF9800</color>
+    <color name="text1">#52504d</color>
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993
 </resources>
