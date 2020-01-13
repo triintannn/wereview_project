@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/putih"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/ivImageOnboard"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/logo"
+        android:scaleType="centerCrop" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvTitleOnboard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_8sdp"
+                android:fontFamily="@font/geometria_regular"
+                android:paddingStart="@dimen/dim_32dp"
+                android:paddingEnd="@dimen/dim_32dp"
+                android:text="@string/tvTitleOnboard1"
+                android:textAlignment="center"
+                android:textColor="@color/text1"
+                android:textSize="@dimen/_16ssp" />
+
+            <TextView
+                android:id="@+id/tvBodyOnboard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvTitleOnboard"
+                android:layout_marginHorizontal="@dimen/_8sdp"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:layout_marginBottom="@dimen/_72sdp"
+                android:fontFamily="@font/geometria_regular"
+                android:paddingStart="@dimen/dim_32dp"
+                android:paddingEnd="@dimen/dim_32dp"
+                android:text="@string/tvBodyOnboard1"
+                android:textAlignment="center"
+                android:textColor="@color/text1"
+                android:textSize="@dimen/_13ssp" />
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+
+</RelativeLayout>

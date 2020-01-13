@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">WeReview</string>
+    <string name="button_lewati">Lewati</string>
+    <string name="button_lanjut">Lanjut</string>
+    <string name="button_masuk">Masuk</string>
+    <string name="tvTitleOnboard1">WeReview : Selamat Datang!</string>
+    <string name="tvBodyOnboard1">Diaplikasi review kamu bisa mendapatkan info menarik tentang apa yang kamu belum ketahui!</string>
+    <string name="tvTitleOnboard2">Info Menarik!</string>
+    <string name="tvBodyOnboard2">Dapatkan info yang kamu butuhkan dari aplikasi ini</string>
+    <string name="tvTitleOnboard3">Tampilan Friendly!</string>
+    <string name="tvBodyOnboard3">Tampilan diaplikasi ini memudahkan kamu untuk memahami aplikasi ini!</string>
+
+
 </resources>
