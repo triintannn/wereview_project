@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WeReview</string>
+    <string name="sudah_punya">Sudah punya akun?</string>
+    <string name="masuk">Masuk</string>
 </resources>
