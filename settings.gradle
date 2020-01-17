@@ -1,2 +1,5 @@
 include ':app'
+<<<<<<< HEAD
+=======
 rootProject.name='WeReview'
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993

@@ -8,6 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+<<<<<<< HEAD
+=======
     <style name="sudah_punya">
         <item name="android:textSize">
             14sp
@@ -39,4 +41,5 @@
 
 
 
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993
 </resources>

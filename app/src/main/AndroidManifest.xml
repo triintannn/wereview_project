@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
+    package="com.example.project_wereview">
+=======
     package="com.example.wereview">
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993
 
     <application
         android:allowBackup="true"
@@ -9,21 +13,28 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
+        <activity android:name=".MainActivity">
+=======
 
 
         <activity android:name=".ui._intro.SplashActivity" android:theme="@style/AppTheme.Fullscreen">
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+=======
         <activity android:name=".ui._register.register"></activity>
         <activity android:name=".ui._intro.OnboardActivity" android:theme="@style/AppTheme.Fullscreen"></activity>
 
         <activity android:name=".MainActivity" android:theme="@style/AppTheme.NoActionBar">
         </activity>
 
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993
     </application>
 
 </manifest>

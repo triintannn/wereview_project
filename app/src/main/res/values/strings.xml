@@ -1,4 +1,7 @@
 <resources>
+<<<<<<< HEAD
+    <string name="app_name">project_wereview</string>
+=======
     <string name="app_name">WeReview</string>
     <string name="sudah_punya">Sudah punya akun?</string>
     <string name="masuk">Masuk</string>
@@ -12,4 +15,5 @@
     <string name="tvTitleOnboard3">Tampilan Friendly!</string>
     <string name="tvBodyOnboard3">Tampilan diaplikasi ini memudahkan kamu untuk memahami aplikasi ini!</string>
 
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993
 </resources>

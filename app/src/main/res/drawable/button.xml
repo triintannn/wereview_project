@@ -16,10 +16,18 @@
 
         <path
             android:pathData="M0 0V33H92V0"
+<<<<<<< HEAD
+            android:fillColor="#020202"
+=======
             android:fillColor="#000000"
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993
             />
 
     </group>
 
+<<<<<<< HEAD
+</vector>
+=======
 </vector>
 
+>>>>>>> b13319c66d18c36c9f87b30e7402b640e44e7993
