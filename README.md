@@ -8,5 +8,6 @@ Ini link figma: https://www.figma.com/file/hdQd5qXWNFSIfjI8aD5yXP/We-review?node
 1. Arif Rachmat Darmawan (Front-End)
 2. Nugraha Adi Sulistyo (Back-End)
 3. Tri Intan Ismayanty (Full-Stack)
-![Foto Intan](https://drive.google.com/open?id=1Rkt0YI9lCQdcBKuMYFdk41d_dgDkexi7)
+
+<img src="https://drive.google.com/open?id=1Rkt0YI9lCQdcBKuMYFdk41d_dgDkexi7">
 4. Elfara Nadiva Putri (Design and Documentation)
